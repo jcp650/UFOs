@@ -14,5 +14,11 @@ For someone using the webpage, they must first identify what metric they want to
 
 ### Figure 2
 
-![](Resources/Figure 2.png)
+![](Resources/Figure%202.png)
+
+### Figure 3
+
+![](Resources/Figure%203.png)
+
+
 
