@@ -10,7 +10,7 @@ For someone using the webpage, they must first identify what metric they want to
 
 ### Figure 1
 
-![](Resources/Figure 1.png)
+![](Resources/Figure%201.png)
 
 ### Figure 2
 
